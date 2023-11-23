@@ -8,7 +8,9 @@ body {
   background-image: url("../img/sfondo.png");
   background-repeat: repeat-y;
   background-position: center;
-  background-size: 45%;
+  background-size: 700px;
+  padding-right: 40px;
+  padding-left: 25px;
 }
 .logo {
   border: 55px solid rgb(21, 145, 179);
@@ -91,7 +93,11 @@ h1 {
 }
 .ul {
   list-style-type: disc;
-  padding-left: 5px;
+  padding-left: 30px;
+}
+.art2 {
+  padding-top: 0px;
+  font-size: 25px;
 }
 /* HEADER */
 
