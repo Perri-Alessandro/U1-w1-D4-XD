@@ -60,7 +60,7 @@ body {
   background-color: rgb(255, 255, 255);
   background-size: 6%;
   background-position: center;
-  margin-top: 20px;
+  margin-top: 30px;
   width: 470px;
   height: fit-content;
   padding-left: 20px;
@@ -74,6 +74,17 @@ h1 {
   font-weight: 500;
 }
 .pautore {
+  font-size: 24px;
+  color: rgb(150, 150, 150);
+  padding-top: 40px;
+}
+.art1 {
+  padding-top: 25px;
+  font-size: 25px;
+}
+.span1 {
+  color: blueviolet;
+  font-weight: 500;
 }
 /* HEADER */
 
