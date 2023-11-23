@@ -61,14 +61,19 @@ body {
   background-size: 6%;
   background-position: center;
   margin-top: 20px;
-  width: 510px;
+  width: 470px;
   height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
 }
 h1 {
   padding-top: 35px;
   color: black;
   font-size: 250%;
   font-weight: 500;
+}
+.pautore {
 }
 /* HEADER */
 
